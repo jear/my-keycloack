@@ -1,6 +1,9 @@
 # my-keycloack
 https://www.keycloak.org/getting-started/getting-started-kube
 
+# Basic deployment
+https://www.keycloak.org/operator/basic-deployment
+
 # Configure for production
 https://www.keycloak.org/server/configuration-production
 
