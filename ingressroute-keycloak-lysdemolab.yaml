@@ -1,7 +1,7 @@
 apiVersion: traefik.containo.us/v1alpha1
 kind: IngressRoute
 metadata:
-  name: keycloak
+  name: keycloak-internal
   namespace: keycloak
 spec:
   entryPoints:
