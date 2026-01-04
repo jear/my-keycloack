@@ -1,6 +1,9 @@
 # my-keycloack
 https://www.keycloak.org/getting-started/getting-started-kube
 
+# install operator
+https://www.keycloak.org/operator/installation
+
 # Basic deployment
 https://www.keycloak.org/operator/basic-deployment
 
